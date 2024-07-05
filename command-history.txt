@@ -1,0 +1,27 @@
+    1  unsetopt beep
+    2  clear
+    3  git
+    4  clear
+    5  neofetch
+    6  clear
+    7  git -v
+    8  git --version\
+    9  git --version
+   10  sudo apt update
+   11  clear
+   12  git --version
+   13  sudo apt update
+   14  sudo apt install git
+   15  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   16  nvm --v
+   17  nvm install v14.15.4
+   18  node -v
+   19  clear
+   20  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24-1
+   21  ls
+   22  cd uas-komdat-24-1/
+   23  ls
+   24  code .
+   25  npm install
+   26  npm run start
+   27  history > command-history.txt
